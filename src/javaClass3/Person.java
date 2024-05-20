@@ -24,6 +24,6 @@ public class Person {
 
     public  void speak(){   // Behaviour
 
-        System.out.println(" All can speak and their gender is "+ gender);
+        System.out.println(" All can speak and their gender is "+ gender+"And this is from parent class");
     }
 }

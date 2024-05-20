@@ -7,7 +7,7 @@ public class Pen {
     }
 
     public void write(){   // Behaviour
-        System.out.println(color +" "+ " is that pen color for  write");
+        System.out.println(color +" "+ " is that pen color for  write and this is from parent Class");
     }
 
 
